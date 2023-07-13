@@ -1,5 +1,5 @@
 # genome-tries
-This program takes a directory of genome-files as input and finds target DNA sequences using a prefix trie. The input files are quite large, resulting in a longer runtime of about 20 minutes. 
+```genome-tries``` takes a directory of genome-files as input and finds target DNA sequences using a prefix trie. The input files are quite large, resulting in a longer runtime of about 20 minutes. 
 
 Args: 
 * targets: text file with target DNA sequences
