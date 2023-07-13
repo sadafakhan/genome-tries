@@ -3,7 +3,7 @@
 
 Args: 
 * ```targets```: text file with target DNA sequences
-* ```genomepath```: a directory of genome-files
+* ```genomepath```: directory of genome-files
 
 Returns: 
 * ```output.txt```: text file listing out matches between targets and genome files
